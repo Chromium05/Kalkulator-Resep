@@ -139,9 +139,10 @@ cd recipe-cost-calculator
 #### Buka di Browser
 
 ```bash
-# Buka file recipeCalculator.html di browser
-open recipeCalculator.html
-# atau double-click file di file explorer
+# Buka file index.html di browser
+open index.html
+# atau akses menggunakan link berikut
+https://chromium05.github.io/Kalkulator-Resep/
 ```
 
 #### Mulai Menggunakan
@@ -157,7 +158,7 @@ recipe-cost-calculator/
 ├── recipeCalculator.html    # Main HTML file
 ├── ingredientScript.js      # Ingredient management logic
 ├── recipeScript.js          # Recipe creation & management logic
-├── style.css                # Custom styling (optional)
+├── style.css                # Custom styling
 └── README.md                # Documentation
 ```
 
@@ -189,14 +190,6 @@ Kontribusi sangat welcome! Beberapa area yang bisa dikembangkan:
 * Nutrition Calculator: Integrasi dengan data nutrisi
 * Shopping List: Generate daftar belanja dari resep
 * Dark Mode: Theme switching capability
-
-## License
-
-MIT License - Feel free to use and modify for personal or commercial projects.
-
-## Contact
-
-Untuk pertanyaan atau saran, silakan buat issue di GitHub repository ini.
 
 ---
 
